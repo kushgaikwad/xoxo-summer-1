@@ -58,7 +58,7 @@ const Home: NextPage = () => {
         <link href="/favicon.ico" rel="icon" />
       </Head>
       {/* <Image src={bgImage} alt="background image" className='object-fit ' priority/> */}
-      <main className={`${styles.main} ${lato.className} ${prata.className} `}>
+      <main className={`${styles.main} ${lato.className}`}>
         
         <header className='top-0 left-0 flex justify-center py-5 md:justify-end xl:text-1xl'>
           <ConnectButton />
