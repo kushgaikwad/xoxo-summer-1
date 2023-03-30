@@ -85,7 +85,7 @@ const Home: NextPage = () => {
 
       <footer className={`${styles.footer} text-[0.6rem] md:text-[0.8rem]`} >
         <a href="https://kushgaikwad.studio" rel="noopener noreferrer" target="_blank">
-          Made with lots of Deep House and Dark Chocolate
+          Made with @Decent.xyz & lots of Deep House and Dark Chocolate
         </a>
       </footer>
     </div >
